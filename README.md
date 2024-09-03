@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working As an ASE at Technosoft Solutions<br>👯 I’m looking to collaborate on .net core projects<br>🤝 I’m looking for help with getting more clients <br>🌱 I’m currently learning Azure <br>💬 Ask me about anything <br>
+🔭 I’m currently working as an ASE at Technosoft Solutions<br>👯 I’m looking to collaborate on .net core projects<br>🤝 I’m looking for help with getting more clients <br>🌱 I’m currently learning Azure <br>💬 Ask me about anything <br>
 
 
 ## 🌐 Socials:
