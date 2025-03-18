@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=world&logoColor=white)](https://sameertanveer.github.io/sameer-tanveer/) 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=flat-square&logo=github&logoColor=blue)](https://sameertanveer.github.io/sameer-tanveer/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sameertanveer23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-tanveer-909aa8193) 
 
 # 💻 Tech Stack:
